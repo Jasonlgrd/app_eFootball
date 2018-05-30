@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">e-Football</string>
+
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="password2">Confirmer mot de passe</string>
+    <string name="login_title">Connexion</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="logout">Déconnexion</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="profile">Profile</string>
+    <string name="licence">Licence</string>
+    <string name="club">Club :</string>
+    <string name="localisation">Localisation :</string>
+    <string name="licence1">Licence :</string>
+    <string name="retour">Retour</string>
+    <string name="select_dep">Sélectionnez un département :</string>
+    <string name="select_club">Sélectionnez un club :</string>
+    <string name="btn_create_licence">Créer la licence</string>
+</resources>
